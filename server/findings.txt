@@ -1,0 +1,2 @@
+1. colors is used to beautify the console
+2. Add a new file same as ./src/seeder.js to upload data to the server on start up when necessary
